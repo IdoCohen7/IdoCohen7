@@ -21,5 +21,5 @@ I’m always exploring new tools, building side projects, and improving my craft
 ## Contact
 **Email:** [idocohen727@gmail.com](mailto:idocohen727@gmail.com)  
 **Portfolio:** [idocohencv.co.il](https://idocohencv.co.il)  
-**LinkedIn:** [linkedin.com/in/idocohen7](https://linkedin.com/in/idocohen1)  
+**LinkedIn:** [linkedin.com/in/idocohen1](https://linkedin.com/in/idocohen1)  
 **GitHub:** [github.com/IdoCohen7](https://github.com/IdoCohen7)
